@@ -1,5 +1,10 @@
+### 2022-09-16 Friday
 
-### 2022-09-13
+Project Selection Notes:
+- Example projects had very well-defined (and simple) tasks
+	- e.g. image classification, image description
+
+### 2022-09-13 Tuesday
 
 Subject Area: NLP
 
