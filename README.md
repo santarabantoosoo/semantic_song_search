@@ -1,7 +1,12 @@
 
 
-# NLP
-Vanderbilt data science master's program: Machine learning 2 course
+# Semantic Search
+ML2 Team 13
+
+## Course Resources
+
+- [Course Page](https://hrlblab.github.io/DS5660.html)
+- [TA Meeting Scheduler](https://calendly.com/yi-xin/30-minute-meeting-clone?month=2022-09)
 
 ## Team
 
@@ -16,10 +21,9 @@ Vanderbilt data science master's program: Machine learning 2 course
 
 [How to Build a Semantic Search Engine With Transformers and Faiss | by Kostas Stathoulopoulos | Towards Data Science](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
 
-## Course Resources
+## Data
 
-- [Course Page](https://hrlblab.github.io/DS5660.html)
-- [TA Meeting Scheduler](https://calendly.com/yi-xin/30-minute-meeting-clone?month=2022-09)
+[Song Lyrics](https://www.kaggle.com/datasets/nikhilnayak123/5-million-song-lyrics-dataset)
 
 ## Resources to explore:   
 
