@@ -12,6 +12,10 @@ Vanderbilt data science master's program: Machine learning 2 course
 ## Project Timeline 
 
 
+## Template 
+
+[How to Build a Semantic Search Engine With Transformers and Faiss | by Kostas Stathoulopoulos | Towards Data Science](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
+
 ## Course Resources
 
 - [Course Page](https://hrlblab.github.io/DS5660.html)
