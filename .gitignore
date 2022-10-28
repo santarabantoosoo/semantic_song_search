@@ -132,3 +132,6 @@ dmypy.json
 data/archive.zip
 data/clean_dataset
 data/ds2.csv
+
+# macos
+.DS_Store
