@@ -133,3 +133,6 @@ data/archive.zip
 data/clean_dataset
 data/clean_dataset.csv
 data/ds2.csv
+
+# macos
+.DS_Store
