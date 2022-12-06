@@ -37,3 +37,8 @@ ML2 Team 13
 - [Hands-On Natural Language Processing with PyTorch 1.x](https://learning.oreilly.com/library/view/hands-on-natural-language/9781789802740/)
 - [Natural Language Processing with Transformers](https://learning.oreilly.com/library/view/natural-language-processing/9781098136789/)
 
+
+
+## Notes: 
+
+I couldn't find the function to_ascii in the preprocessing file 
