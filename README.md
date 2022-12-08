@@ -27,13 +27,9 @@ ML2 Team 13
 - `4_lyrics_embed.ipynb`: create lyric embeddings
 - `5_semantic_search.ipynb`: perform semantic search
 
-## Template 
-
-- [How to Build a Semantic Search Engine With Transformers and Faiss | by Kostas Stathoulopoulos | Towards Data Science](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
-
 ## Research Links:   
 
-- [How to Build a Semantic Search Engine With Transformers and Faiss | by Kostas Stathoulopoulos | Towards Data Science](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
+- [How to Build a Semantic Search | Towards Data Science](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
 - [Machine Learning with PyTorch and Scikit-Learn](https://learning.oreilly.com/library/view/machine-learning-with/9781801819312/)
 - [Hands-On Natural Language Processing with PyTorch 1.x](https://learning.oreilly.com/library/view/hands-on-natural-language/9781789802740/)
 - [Natural Language Processing with Transformers](https://learning.oreilly.com/library/view/natural-language-processing/9781098136789/)
