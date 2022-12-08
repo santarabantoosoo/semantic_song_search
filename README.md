@@ -18,6 +18,15 @@ ML2 Team 13
 
 - [Song Lyrics](https://www.kaggle.com/datasets/nikhilnayak123/5-million-song-lyrics-dataset)
 
+## Project Notebook Layout
+
+- `0_preprocessing.ipynb`: data preprocessing
+- `1_fine_tune_mnr.ipynb`: fine-tune base model
+- `2_performance_assessment.ipynb`: assess performance for base and fine-tuned models
+- `3_final_train.ipynb`: train selected fine-tuning method on entire dataset
+- `4_lyrics_embed.ipynb`: create lyric embeddings
+- `5_semantic_search.ipynb`: perform semantic search
+
 ## Template 
 
 - [How to Build a Semantic Search Engine With Transformers and Faiss | by Kostas Stathoulopoulos | Towards Data Science](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
