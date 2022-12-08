@@ -1,8 +1,9 @@
 
 
 # Semantic Search
-Machine Learning II (Vanderbilt DS5660)
-ML2 Team 13
+
+- Machine Learning II (Vanderbilt DS5660)
+- ML2 Team 13
 
 ## Course Resources
 
