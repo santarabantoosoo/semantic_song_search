@@ -14,13 +14,13 @@ ML2 Team 13
 - Mahmoud Hamza - santarabantoosoo / mah.mo.hamza@gmail.com / mahmoud.m.hamza@vanderbilt.edu
 - Project contributor - project-contributor / removed / removed
 
-## Template 
-
-[How to Build a Semantic Search Engine With Transformers and Faiss | by Kostas Stathoulopoulos | Towards Data Science](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
-
 ## Data
 
-[Song Lyrics](https://www.kaggle.com/datasets/nikhilnayak123/5-million-song-lyrics-dataset)
+- [Song Lyrics](https://www.kaggle.com/datasets/nikhilnayak123/5-million-song-lyrics-dataset)
+
+## Template 
+
+- [How to Build a Semantic Search Engine With Transformers and Faiss | by Kostas Stathoulopoulos | Towards Data Science](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
 
 ## Research Links:   
 
