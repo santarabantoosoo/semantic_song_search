@@ -37,3 +37,4 @@
 - [Sentence-BERT](https://arxiv.org/abs/1908.10084)
 - [SentenceTransformers](https://www.sbert.net/index.html)
 - [all-MiniLM-L12-v2 Model](https://huggingface.co/sentence-transformers/all-MiniLM-L12-v2)
+- [NLP for Semantic Search](https://www.pinecone.io/learn/fine-tune-sentence-transformers-mnr/)
