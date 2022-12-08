@@ -2,7 +2,7 @@
 
 # Semantic Search
 
-- Machine Learning II (Vanderbilt DS5660)
+- Machine Learning II [Vanderbilt DS5660](https://hrlblab.github.io/DS5660.html)
 - ML2 Team 13
 
 ## Course Resources
