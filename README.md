@@ -27,6 +27,11 @@
 - `3_final_train.ipynb`: train selected fine-tuning method on entire dataset
 - `4_lyrics_embed.ipynb`: create lyric embeddings
 - `5_semantic_search.ipynb`: perform semantic search
+- `6_gradio_app.ipynb`: gradio app for crowd sourcing
+
+**Parallel track** 
+
+- `BOW_fine_tuning.ipynb`: fine tuning the dataset that most probably had scores based on Bag Of Words  
 
 ## Research Links:   
 
