@@ -27,7 +27,7 @@
 - `3_final_train.ipynb`: train selected fine-tuning method on entire dataset
 - `4_lyrics_embed.ipynb`: create lyric embeddings
 - `5_semantic_search.ipynb`: perform semantic search
-- `6_gradio_app.ipynb`: gradio app for crowd sourcing
+- `6_gradio_app.py`: gradio app for crowd sourcing
 
 **Parallel track** 
 
