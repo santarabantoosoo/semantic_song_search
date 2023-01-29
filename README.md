@@ -13,7 +13,7 @@
 
 - Henry Savich - HSavich / hhsavich@gmail.com / henry.h.savich@vanderbilt.edu
 - Mahmoud Hamza - santarabantoosoo / mah.mo.hamza@gmail.com / mahmoud.m.hamza@vanderbilt.edu
-- Project contributor - project-contributor / removed / removed
+- Project contributor
 
 ## Data
 
